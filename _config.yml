@@ -1,0 +1,4 @@
+# Jekyll configuration
+name: aleok's blog
+description: thoughts about random ideas in my mind
+remote_theme: jekyll-dash
