@@ -1,7 +1,7 @@
 # Jekyll configuration
 title: aleok
 name: aleok's blog
-remote_theme: alexdevteam/jekyll-dash
+remote_theme: aleokdev/jekyll-dash
 author: aleok
 description: >
   Welcome. I'm aleok. I'm a robotics student and have been programming since I was a kid.
